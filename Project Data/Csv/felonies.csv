@@ -1,0 +1,22 @@
+District,Zipcode,possession_of_weapons,drug_possession,drug_offence,accident_with_victims,accident_without_victims,Consumption_of_alcohol_on_public_roads,total_offense
+centro,28013.0,21,296,60,44,61,856,1338
+arganzuela,28045.0,0,5,1,38,48,10,102
+retiro,28007.0,0,4,1,46,39,6,96
+salamanca,28001.0,1,26,1,55,71,15,169
+chamartin,,1,29,5,53,68,113,269
+tetuan,,4,10,0,43,45,3,105
+chamberi,,0,36,0,41,40,7,124
+fuencarral-el pardo,,0,14,1,45,55,17,132
+moncloa-aravaca,,0,7,3,23,39,4,76
+latina,28044.0,2,23,3,33,48,18,127
+carabanchel,28025.0,1,27,2,48,53,12,143
+usera,28026.0,0,9,2,26,46,9,92
+puente de vallecas,28038.0,10,37,6,49,86,59,247
+moratalaz,28030.0,0,2,0,16,24,2,44
+ciudad lineal,28037.0,3,39,1,48,59,38,188
+hortaleza,28043.0,1,31,5,26,46,39,148
+villaverde,28021.0,0,11,1,24,34,3,73
+villa de vallecas,28031.0,5,7,0,14,33,5,64
+vicalvaro,,1,1,2,7,17,15,43
+san blas-canillejas,,0,11,3,37,50,13,114
+barajas,28042.0,2,0,0,10,19,13,44

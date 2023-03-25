@@ -1,0 +1,209 @@
+Name,District_ID,Zipcode,District,coordinate_X,coordinate_Y,latitude,longitude,Type
+Mercado municipal de Antón Martín,1,28013,centro,440710,4473658,40411422452721504,-36988110198857104,market
+Mercado municipal de Barceló,1,28013,centro,440683,4475365,4042680707802060,-36992767323438304,market
+Mercado municipal de Los Mostenses,1,28013,centro,439862,4474976,40423243776104,-37089296405152096,market
+Mercado municipal de San Antón,1,28013,centro,440825,4474835,40422042629795200,-3697565301846020,market
+Mercado municipal de San Fernando (Embajadores),1,28013,centro,440274,4473236,40407598710636000,-37039098865773904,market
+Mercado municipal de la Cebada,1,28013,centro,439780,4473650,4041129262886910,-37097706603113504,market
+Mercado municipal de Guillermo de Osma,2,28045,arganzuela,441042,4472034,403949437306698,-36960129848486096,market
+Mercado municipal de Santa María de la Cabeza,2,28045,arganzuela,440832,4472713,4040291810276810,-36972853519882400,market
+Mercado municipal de Ibiza,3,28007,retiro,442533,4474392,4041817157699020,-3677392762224420,market
+Mercado municipal de Pacífico,3,28007,retiro,442677,4472855,4040433546207180,-36755452423143400,market
+Mercado municipal de Diego de León,4,28001,salamanca,442116,4476236,4043475434372190,-36824756273454704,market
+Mercado municipal de La Guindalera,4,28001,salamanca,443083,4476157,4043410047219340,-3671056299540890,market
+Mercado municipal de la Paz,4,28001,salamanca,441826,4475458,4042772557961970,-36858115591230600,market
+Mercado municipal de Chamartín,5,28002,chamartin,442509,4478737,40457311867437296,-3678056977192460,market
+Mercado municipal de Prosperidad,5,28002,chamartin,442833,4477298,404443619472988,-3674118079721270,market
+Mercado municipal de San Cristóbal,5,28002,chamartin,442053,4481294,4047843331496170,-36849469591835400,market
+Mercado municipal de Maravillas,6,28020,tetuan,440347,4477839,40449060922663600,-37034696566148400,market
+Mercado municipal de San Enrique,6,28020,tetuan,440716,4478818,40456033970000704,-37004877796909504,market
+Mercado municipal de Tetuán,6,28020,tetuan,440752,4479160,404609899402179,-36988290271823696,market
+Mercado municipal de la Remonta,6,28020,tetuan,440972,4479488,40463969366476400,-3696264958640330,market
+Mercado municipal de Chamberí,7,28010,chamberi,440811,4476407,4043620300971710,-36978649027841800,market
+Mercado municipal de Guzmán el Bueno,7,28010,chamberi,439398,4476280,4043495717590030,-37145114819530304,market
+Mercado municipal de Vallehermoso,7,28010,chamberi,439904,4476186,4043413801893940,-37085488662890896,market
+Mercado municipal de Argüelles,9,28008,moncloa-aravaca,439107,4475866,40431197427341104,-37179024231789400,market
+Mercado municipal de Valdezarza,9,28008,moncloa-aravaca,438998,4479816,4046677250917080,-37195786099544000,market
+Mercado municipal de Alto de Extremadura,10,28044,latina,437622,4473300,4040797174906470,-37351687013396304,market
+Mercado municipal de Las Águilas,10,28044,latina,434775,4469966,4037771961975460,-37683778002246600,market
+Mercado municipal de Tirso de Molina,10,28044,latina,438399,4473847,4041295729782620,-37260532291020600,market
+Mercado municipal de Puerta Bonita,11,28025,carabanchel,437351,4470870,40386069987981800,-37381115427324496,market
+Mercado municipal de San Isidro,11,28025,carabanchel,438448,4471494,4039177425768850,-37252453825412200,market
+Mercado municipal de Jesús del Gran Poder,12,28026,usera,440494,4470881,4038639943136540,-37010971746900304,market
+Mercado municipal de Orcasitas,12,28026,usera,439392,4469154,40368880585172400,-3715179497757880,market
+Mercado municipal de Usera,12,28026,usera,440056,4470962,4038709779232290,-3706253056063660,market
+Mercado municipal de Doña Carlota,13,28038,puente de vallecas,444016,4472712,404031383496021,-36597537009742800,market
+Mercado municipal de Mediodía - Entrevías,13,28038,puente de vallecas,443191,4469963,4037831782244750,-36692420255769200,market
+Mercado municipal de Numancia,13,28038,puente de vallecas,444159,4471630,40393391586979904,-36579853920414496,market
+Mercado municipal de Puente de Vallecas,13,28038,puente de vallecas,443332,4471841,4039524554761870,-3667748162837300,market
+Mercado municipal de Moratalaz,14,28030,moratalaz,445233,4472902,4040493085829730,-3645440746968980,market
+Mercado municipal de Bami,15,28037,ciudad lineal,444410,4475768,40430694913121696,-3655377903084200,market
+Mercado municipal de Las Ventas,15,28037,ciudad lineal,444282,4476082,4043351496197300,-36569261794988000,market
+Mercado municipal de San Pascual,15,28037,ciudad lineal,444671,4476814,4043826322016390,-36536591990125400,market
+Mercado municipal de Santa Eugenia,18,28031,villa de vallecas,448484,4470238,4038113023262800,-36069142380412704,market
+Mercado municipal de Villa de Vallecas,18,28031,villa de vallecas,447035,4469964,4037857107320670,-3623949195193400,market
+Mercado municipal de Vicálvaro,19,28032,vicalvaro,0,0,404058062645599,-36082992742182896,market
+Mercado municipal de Villaverde Alto,17,28021,villaverde,439615,4466438,4034630225051670,-37110317703364496,market
+Centro Deportivo Municipal  María Jesús Rosa (La Vaguada),8,28029,fuencarral-el pardo,439931,4481139,4047876758357450,-37086993281311904,['Piscinas']
+Centro Deportivo Municipal Alcántara,4,28001,salamanca,442851,4475492,4042810291538110,-36737317205040496,['Gimnasios']
+Centro Deportivo Municipal Alfredo Goyeneche,9,28008,moncloa-aravaca,433581,4478234,4045212135012850,-3783283203719190,['Gimnasios']
+Centro Deportivo Municipal Aluche,10,28044,latina,434332,4470525,40382720517194704,-3773653600881560,['Gimnasios']
+Centro Deportivo Municipal Antiguo Canódromo,11,28025,carabanchel,437604,4472194,4039801608457680,-37352725040539504,['Gimnasios']
+Centro Deportivo Municipal Antonio Díaz Miguel,6,28020,tetuan,441058,4480296,40471254265861400,-36953256978963800,['Gimnasios']
+Centro Deportivo Municipal Barajas,21,28042,barajas,450176,4479315,4046301382809650,-3587693324074620,['Gimnasios']
+Centro Deportivo Municipal Barceló,1,28013,centro,440721,4475354,4042671069347760,-36988277636112704,['Gimnasios']
+Centro Deportivo Municipal Blanca Fernández Ochoa (La Mina),11,28025,carabanchel,436639,4470466,4038238220944520,-3746452142917390,['Gimnasios']
+Centro Deportivo Municipal Casa de Campo,9,28008,moncloa-aravaca,437768,4474204,4041612628789200,-3733536573641620,['Gimnasios']
+Centro Deportivo Municipal Centro Integrado Arganzuela,2,28045,arganzuela,441089,4472825,4040207279862860,-36955325387824000,['Gimnasios']
+Centro Deportivo Municipal Cerro Almodóvar,18,28031,villa de vallecas,448872,4470296,4038168570611530,-3602336460953480,['Gimnasios']
+Centro Deportivo Municipal Chamartín,5,28002,chamartin,442779,4479368,4046113349830690,-3676208246061120,['Gimnasios']
+Centro Deportivo Municipal Circuito BMX,2,28045,arganzuela,441446,4470778,40385539006771200,-36898722494765296,['CanchasBaloncesto']
+Centro Deportivo Municipal Ciudad de los Poetas,9,28008,moncloa-aravaca,439052,4479721,40465920678080800,-37189325594658496,['Gimnasios']
+Centro Deportivo Municipal Concepción,15,28037,ciudad lineal,445003,4476493,4043725652047250,-36484498132292000,['Gimnasios']
+Centro Deportivo Municipal Daoíz y Velarde 1,3,28007,retiro,442528,4472638,4040236990974130,-36772808932293200,['Gimnasios']
+Centro Deportivo Municipal Daoíz y Velarde 2,3,28007,retiro,442475,4472465,40400799189712304,-36778902970366800,['Gimnasios']
+Centro Deportivo Municipal El Espinillo,17,28021,villaverde,441698,4467536,4035634193991930,-3686595141820630,['Piscinas']
+Centro Deportivo Municipal El Olivillo,10,28044,latina,436711,4473147,4040652470221460,-3745889233801080,['Gimnasios']
+Centro Deportivo Municipal El Quijote (antiguo Francos Rodríguez),9,28008,moncloa-aravaca,439535,4478347,4045358753138910,-3713093094582230,['Piscinas']
+Centro Deportivo Municipal Entrevías,13,28038,puente de vallecas,442741,4469977,40378413212706200,-3674532317137480,['CamposEstadiosFutbol']
+Centro Deportivo Municipal Escuelas de San Antón,1,28013,centro,440704,4475035,4042382670120850,-3699010103263690,['Gimnasios']
+Centro Deportivo Municipal Estanque del Retiro,3,28007,retiro,441930,4474426,40418436005960800,-36845031319515696,['Embarcaderos']
+Centro Deportivo Municipal Fabián Roncero,20,28022,san blas-canillejas,449327,4477838,4044965684114440,-3597577201182500,['Gimnasios']
+Centro Deportivo Municipal Faustina Valladolid (antiguo Valdebernardo),19,28032,vicalvaro,447145,4472806,4040418961057290,-3622901144863190,['Gimnasios']
+Centro Deportivo Municipal Fernando Martín,9,28008,moncloa-aravaca,439619,4479162,40460935404623104,-37121918299288600,['Gimnasios']
+Centro Deportivo Municipal Francisco Fernández Ochoa,11,28025,carabanchel,437097,4468625,4036581776978110,-3740893980533780,['Gimnasios']
+Centro Deportivo Municipal Fuente del Berro,4,28001,salamanca,443566,4474779,4042171956854870,-36652515154670096,['Gimnasios']
+Centro Deportivo Municipal Félix Rubio,17,28021,villaverde,441281,4467659,40357429678675200,-3691528804696940,['Rocodromo']
+Centro Deportivo Municipal Gallur,10,28044,latina,437595,4472245,40398465832065,-37353834506869200,['Gimnasios']
+Centro Deportivo Municipal Gimnasio Moscardó,4,28001,salamanca,442795,4476586,40437945289676896,-3674502029997260,['Gimnasios']
+Centro Deportivo Municipal Hortaleza,16,28043,hortaleza,444784,4481305,404787279264401,-36527183525553000,['Gimnasios']
+Centro Deportivo Municipal José María Cagigal,9,28008,moncloa-aravaca,437491,4475985,4043214955342780,-37369645992831296,['Gimnasios']
+Centro Deportivo Municipal Juan de Dios Román,18,28031,villa de vallecas,448616,4468325,4036391581480000,-360518607500416,['Gimnasios']
+Centro Deportivo Municipal La Almudena,15,28037,ciudad lineal,446349,4474634,4042060649869600,-36324237307227600,['Piscinas']
+Centro Deportivo Municipal La Bombilla,9,28008,moncloa-aravaca,437917,4476038,4043266791217280,-3731947836490640,['PistasTenisBadminton']
+Centro Deportivo Municipal La Cebada (antigua La Latina),1,28013,centro,439809,4473567,40410546084176496,-370940146763504,['Gimnasios']
+Centro Deportivo Municipal La Chopera,3,28007,retiro,441823,4473675,4041167030849670,-36856756521012096,['Gimnasios']
+Centro Deportivo Municipal La Elipa,14,28030,moratalaz,444349,4473952,4041433123768480,-36559498758522800,['Gimnasios']
+Centro Deportivo Municipal La Fundi,2,28045,arganzuela,441329,4471761,4039437715885100,-3691341060146100,['Gimnasios']
+Centro Deportivo Municipal La Masó,8,28029,fuencarral-el pardo,439451,4481771,4048442599932080,-37144222564719800,['Gimnasios']
+Centro Deportivo Municipal Lago Casa de Campo,9,28008,moncloa-aravaca,437942,4474300,40417013097503696,-37314952685679904,['Embarcaderos']
+Centro Deportivo Municipal Las Cruces,10,28044,latina,435779,4470115,40379148937377296,-3756554762411960,['CamposEstadiosFutbol']
+Centro Deportivo Municipal Los Prunos,16,28043,hortaleza,447540,4478250,40453257453448000,-36186956428199800,['Gimnasios']
+Centro Deportivo Municipal Luis Aragonés,16,28043,hortaleza,446795,4479520,40464650948053800,-36275877145025800,['Gimnasios']
+Centro Deportivo Municipal Margot Moles (Vicálvaro),19,28032,vicalvaro,448815,4473344,4040914061858400,-3603264732850390,['Gimnasios']
+Centro Deportivo Municipal Marqués de Samaranch,2,28045,arganzuela,439131,4473248,4040761501410640,-37173807221939104,['Gimnasios']
+Centro Deportivo Municipal Miguel Guillén Prim,18,28031,villa de vallecas,447099,4469435,4037381855452160,-3623151468598150,['Gimnasios']
+Centro Deportivo Municipal Moratalaz,14,28030,moratalaz,446331,4472220,4039885854572330,-3632432290214530,['Gimnasios']
+Centro Deportivo Municipal Moscardó,12,28026,usera,440053,4471118,4038850290426960,-3706303079808020,['Gimnasios']
+Centro Deportivo Municipal Orcasitas,12,28026,usera,439519,4469689,4037558213858420,-371245854352948,['Gimnasios']
+Centro Deportivo Municipal Orcasur,12,28026,usera,440727,4469292,4037021993373850,-36994689006077400,['Gimnasios']
+Centro Deportivo Municipal Pabellón Villa de Madrid,21,28042,barajas,450054,4479144,4046145708324950,-35891069291726100,['Gimnasios']
+Centro Deportivo Municipal Palomeras,13,28038,puente de vallecas,446209,4470416,4038260362230280,-36337151808372400,['Gimnasios']
+Centro Deportivo Municipal Pepu Hernández,20,28022,san blas-canillejas,448569,4475399,4042763842661560,-3606311072744060,['Gimnasios']
+Centro Deportivo Municipal Peñagrande,8,28029,fuencarral-el pardo,439176,4480925,40476792184653504,-3717566523014730,['Gimnasios']
+Centro Deportivo Municipal Peñuelas,2,28045,arganzuela,440176,4472244,4039865532340660,-3704959759845770,['Piscinas']
+Centro Deportivo Municipal Plata y Castañar,17,28021,villaverde,439040,4466852,4034998997348070,-37178413073202800,['Gimnasios']
+Centro Deportivo Municipal Playa Victoria,6,28020,tetuan,440472,4478972,404592763472204,-37021136988422496,['Gimnasios']
+Centro Deportivo Municipal Pradillo,5,28002,chamartin,443049,4477822,4044910622626730,-3671618277009410,['Gimnasios']
+Centro Deportivo Municipal Pueblo Nuevo,15,28037,ciudad lineal,445948,4475892,4043003240158620,-3638536354805480,['Gimnasios']
+Centro Deportivo Municipal Raúl González,17,28021,villaverde,441882,4466411,40346220026067000,-3684337728806360,['Gimnasios']
+Centro Deportivo Municipal San Blas,20,28022,san blas-canillejas,448146,4475532,40428810107016496,-36113273589762304,['Gimnasios']
+Centro Deportivo Municipal San Cristóbal,17,28021,villaverde,441274,4466022,4034267317099490,-36914487380508800,['Gimnasios']
+Centro Deportivo Municipal San Fermín,12,28026,usera,441197,4469644,4037530577421290,-36927010241442896,['Piscinas']
+Centro Deportivo Municipal San Juan Bautista,15,28037,ciudad lineal,444154,4477763,4044864976316050,-36585711797466800,['Gimnasios']
+Centro Deportivo Municipal Santa Ana,8,28029,fuencarral-el pardo,440994,4483276,4049809469315440,-3696358010199940,['CamposEstadiosFutbol']
+Centro Deportivo Municipal Tenis Casa de Campo,9,28008,moncloa-aravaca,437586,4474794,40421436625700496,-3735739625664770,['PistasTenisBadminton']
+Centro Deportivo Municipal Triángulo de Oro,6,28020,tetuan,441265,4479615,4046512519238620,-36928208378255800,['Gimnasios']
+Centro Deportivo Municipal Vallecas,13,28038,puente de vallecas,444221,4471294,40390368919782400,-3657213682860770,['Piscinas']
+Centro Deportivo Municipal Vallehermoso,7,28010,chamberi,439867,4476908,4044064843863940,-3709053489027430,['Gimnasios']
+Centro Deportivo Municipal Vicente del Bosque,8,28029,fuencarral-el pardo,441216,4481146,404789135943213,-3693540659747280,['Gimnasios']
+Centro Deportivo Municipal Wilfred Agbonavbare (antiguo Alberto García),13,28038,puente de vallecas,444187,4469302,40372421418063400,-36574515621755104,['Gimnasios']
+Centro Deportivo Municipal Ángel Nieto (antiguo Puente de Vallecas),13,28038,puente de vallecas,443998,4471417,4039146194707860,-36598636029775800,['Gimnasios']
+Estadio Vallehermoso (centro deportivo),7,28010,chamberi,439868,4476906,4044063826273840,-37090268576934496,['CamposEstadiosFutbol']
+Instalación Deportiva Municipal Básica Parque de la Vicalvarada (centro deportivo),19,28032,vicalvaro,448447,4473531,4041079351896060,-3607616723630340,['CamposEstadiosFutbol']
+Instalación Deportiva Municipal Básica Torrespaña - Fuente del Berro (centro deportivo),4,28001,salamanca,443937,4474729,4042129422167340,-36608740643380400,['CamposEstadiosFutbol']
+Instalación Deportiva Municipal Básica Victoria Hernández (El Espinillo II - centro deportivo),17,28021,villaverde,441734,4468008,4036060552171130,-3686214416479880,['CamposEstadiosFutbol']
+CUNEF Universidad,9,28008,moncloa-aravaca,439058,4478350,4045357920636980,-3718717277671810,University
+Escuela de Práctica Jurídica,1,28013,centro,439846,4475175,4042503530088560,-37091370642279200,University
+Escuela Superior de Diseño,14,28030,moratalaz,444948,4473366,4040908310416650,-3648827535580880,University
+Escuela Universitaria de Enfermería. Fundación Jiménez Díaz,9,28008,moncloa-aravaca,439048,4476701,4043868151604700,-3718288587745240,University
+Escuela Universitaria de Magisterio ESCUNI,11,28025,carabanchel,436405,4470042,4037853024498560,-37491851721721000,University
+ESERP Madrid Business School,5,28002,chamartin,442773,4478893,40458735409110600,-3674957593336750,University
+IADE Escuela de Diseño,4,28001,salamanca,441793,4475397,4042716467505720,-36862066802199000,University
+Instituto de Estudios Bursátiles (IEB),3,28007,retiro,441408,4474455,4041866066190480,-3690658377502490,University
+Instituto de Salud Carlos III. Escuela Nacional de Medicina del Trabajo,8,28029,fuencarral-el pardo,441184,4480675,4047467830039230,-3693859963015040,University
+Saint Louis University Madrid Campus,7,28010,chamberi,439155,4477243,4044361453210150,-3717468514879230,University
+Schiller International University Madrid Campus,5,28002,chamartin,441902,4477463,4044579288485750,-3685098971840810,University
+Suffolk University Madrid Campus,7,28010,chamberi,439057,4477288,4044401273259770,-37186283366452704,University
+Universidad Abierta de Cataluña (Universitat Oberta de Catalunya). UOC,1,28013,centro,440990,4474144,4041582948601850,-36955563094397,University
+Universidad Antonio de Nebrija. Campus de la Dehesa de la Villa,9,28008,moncloa-aravaca,439057,4478349,4045357063654990,-37187301533847296,University
+Universidad Antonio de Nebrija. Campus de Madrid-Princesa,1,28013,centro,439522,4475677,4042953411939230,-37129922244057800,University
+Universidad Antonio de Nebrija. Centro Universitario San Rafael - Nebrija,5,28002,chamartin,442213,4478144,4045195424833410,-36814870493492200,University
+Universidad Antonio de Nebrija. Edificio Joaquín María López,7,28010,chamberi,439259,4476605,4043787436557180,-3716177496227910,University
+Universidad Autónoma de Madrid. Escuela Politécnica Superior,8,28029,fuencarral-el pardo,441437,4488694,4054692419691820,-3691631796713080,University
+Universidad Autónoma de Madrid. Escuela Universitaria de Enfermería de la Cruz Roja,9,28008,moncloa-aravaca,439817,4477640,4044723898268860,-37097123606246704,University
+Universidad Autónoma de Madrid. Escuela Universitaria de Fisioterapia de la ONCE,8,28029,fuencarral-el pardo,440004,4482813,40493852846462304,-37079965907927400,University
+Universidad Autónoma de Madrid. Facultad de Ciencias,8,28029,fuencarral-el pardo,441133,4488524,405453713128424,-3695194095239850,University
+Universidad Autónoma de Madrid. Facultad de Ciencias Económicas y Empresariales,8,28029,fuencarral-el pardo,441012,4488468,4054486725066380,-36966178198810896,University
+Universidad Autónoma de Madrid. Facultad de Derecho,8,28029,fuencarral-el pardo,441478,4488101,4054159425362620,-36910810023669904,University
+Universidad Autónoma de Madrid. Facultad de Filosofía y Letras,8,28029,fuencarral-el pardo,440878,4488407,4054431755886160,-3698135523802290,University
+Universidad Autónoma de Madrid. Facultad de Formación de Profesorado y Educación,8,28029,fuencarral-el pardo,441013,4488626,40544409068541400,-36979002877437000,University
+Universidad Autónoma de Madrid. Facultad de Medicina,8,28029,fuencarral-el pardo,441449,4481418,4048138033995380,-369081705203895,University
+Universidad Autónoma de Madrid. Facultad de Psicología,8,28029,fuencarral-el pardo,441354,4488365,4054396360557410,-3692581508705480,University
+Universidad Camilo José Cela Campus Almagro. Escuela de Postgrado,7,28010,chamberi,441049,4475559,4042858073711880,-3694980319880980,University
+Universidad CEU San Pablo. Campus de Moncloa,7,28010,chamberi,439160,4477139,404426780240394,-3717399600089620,University
+Universidad Complutense de Madrid. Centro Complutense para la Enseñanza del Español,9,28008,moncloa-aravaca,438054,4477848,4044898329648030,-3730509235855080,University
+Universidad Complutense de Madrid. Centro Superior de Idiomas Modernos,9,28008,moncloa-aravaca,437924,4477649,40449963578914896,-3732775678645040,University
+Universidad Complutense de Madrid. Escuela Profesional de Medicina Legal y Forense,9,28008,moncloa-aravaca,438315,4477254,40444209689370496,-3724525000209290,University
+Universidad Complutense de Madrid. Escuela Profesional de Relaciones Laborales,1,28013,centro,439983,4475154,4042484700930800,-3707520080344630,University
+Universidad Complutense de Madrid. Facultad de Bellas Artes,9,28008,moncloa-aravaca,437865,4476982,4043928597346610,-37339297313310496,University
+Universidad Complutense de Madrid. Facultad de Ciencias Biológicas,9,28008,moncloa-aravaca,438393,4477794,4044851295451710,-37265182799879296,University
+Universidad Complutense de Madrid. Facultad de Ciencias de la Documentación,7,28010,chamberi,440497,4476628,404381713973253,-37015993259151000,University
+Universidad Complutense de Madrid. Facultad de Ciencias de la Información,9,28008,moncloa-aravaca,438279,4477476,4044565281311890,-37278198653957000,University
+Universidad Complutense de Madrid. Facultad de Ciencias Físicas,9,28008,moncloa-aravaca,438431,4478061,4045093008868160,-37260843872268000,University
+Universidad Complutense de Madrid. Facultad de Ciencias Geológicas,9,28008,moncloa-aravaca,438460,4477802,40448599066708400,-3725717316611810,University
+Universidad Complutense de Madrid. Facultad de Ciencias Matemáticas,9,28008,moncloa-aravaca,438419,4477894,4044942472705850,-37262214898219104,University
+Universidad Complutense de Madrid. Facultad de Ciencias Químicas,9,28008,moncloa-aravaca,438430,4478044,4045085466244560,-37240604104114304,University
+Universidad Complutense de Madrid. Facultad de Comercio y Turismo,7,28010,chamberi,439657,4476807,40439714439065600,-37115079872932800,University
+Universidad Complutense de Madrid. Facultad de Derecho,9,28008,moncloa-aravaca,438033,4477994,4045029942937780,-37307676043691104,University
+Universidad Complutense de Madrid. Facultad de Educación - Centro de Formación del Profesorado,9,28008,moncloa-aravaca,439308,4478186,40450749254097200,-37174574798217600,University
+"Universidad Complutense de Madrid. Facultad de Enfermería, Fisioterapia y Podología",9,28008,moncloa-aravaca,438493,4477279,4044388989111180,-3725275188293440,University
+Universidad Complutense de Madrid. Facultad de Estudios Estadísticos,9,28008,moncloa-aravaca,437965,4477255,4044710921445560,-3736030211293140,University
+Universidad Complutense de Madrid. Facultad de Farmacia,9,28008,moncloa-aravaca,438415,4477352,40445377687821400,-3726162822313480,University
+Universidad Complutense de Madrid. Facultad de Filología,9,28008,moncloa-aravaca,438051,4477841,4044902725572580,-37299122889709400,University
+Universidad Complutense de Madrid. Facultad de Filosofía,1,28013,centro,437551,4477884,4044898643338130,-37304165442551696,University
+Universidad Complutense de Madrid. Facultad de Geografía e Historia,9,28008,moncloa-aravaca,437782,4477907,4044950567301680,-37338667546817200,University
+Universidad Complutense de Madrid. Facultad de Informática,9,28008,moncloa-aravaca,437779,4478289,4045293544436470,-37337951823310400,University
+Universidad Complutense de Madrid. Facultad de Medicina,9,28008,moncloa-aravaca,438415,4477352,4044405495942560,-3724220903045640,University
+Universidad Complutense de Madrid. Facultad de Odontología,9,28008,moncloa-aravaca,438470,4477304,4044255256967300,-3725765855405820,University
+Universidad Complutense de Madrid. Facultad de Óptica y Optometría,20,28022,san blas-canillejas,447911,4475213,4042592167588890,-3614071525708840,University
+Universidad Complutense de Madrid. Facultad de Veterinaria,9,28008,moncloa-aravaca,437639,4477680,4044959367195720,-37383172430653904,University
+Universidad Complutense. Hospital Clínico Veterinario,9,28008,moncloa-aravaca,437749,4477887,4045021458286800,-37400222312945400,University
+Universidad Nacional de Educación a Distancia (UNED). Centro Asociado Madrid - Escuelas Pías,1,28013,centro,440385,4473256,4040778683673910,-370260366801384,University
+Universidad Nacional de Educación a Distancia (UNED). Centro Asociado Madrid - Gregorio Marañón,1,28013,centro,440590,4473327,4040844116636760,-370018265811484,University
+Universidad Nacional de Educación a Distancia (UNED). Centro Asociado Madrid - Jacinto Verdaguer,10,28044,latina,433584,4470532,4038272436710470,-3782454044817050,University
+Universidad Nacional de Educación a Distancia (UNED). Centro Asociado Madrid - Las Tablas,8,28029,fuencarral-el pardo,443582,4484002,405048148552007,-36658711721100400,University
+Universidad Nacional de Educación a Distancia (UNED). Centro Universitario de Idiomas a Distancia (CUID),8,28029,fuencarral-el pardo,443582,4484002,40504821065488,-36658596724706096,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Arquitectura,9,28008,moncloa-aravaca,437947,4476747,4043905709683510,-37316634010765296,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Edificación,9,28008,moncloa-aravaca,437921,4476715,4043875780503790,-3731978507643710,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingeniería Aeronáutica y del Espacio,9,28008,moncloa-aravaca,438543,4476956,404409841121871,-3724656751216630,University
+"Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingeniería Agronómica, Alimentaria y de Biosistemas",9,28008,moncloa-aravaca,438252,4476949,40440899945359296,-3728076234171520,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingeniería Civil,3,28007,retiro,441586,4473438,4040950251823440,-3688466890966940,University
+"Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingeniería de Montes, Forestal y del Medio Natural",9,28008,moncloa-aravaca,438562,4477788,40448485414321800,-3724507841206360,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingeniería de Sistemas Informáticos,14,28030,moratalaz,444288,4473008,4040582313350450,-36565743766748800,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingeniería y Diseño Industrial,2,28045,arganzuela,440552,4472992,4040541152859580,-37006108767868304,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingeniería y Sistemas de Telecomunicación,14,28030,moratalaz,444288,4473008,4040582313350450,-36565743766748800,University
+"Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",9,28008,moncloa-aravaca,437903,4478029,4044872058026010,-37335842412329600,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingenieros de Minas y Energía,7,28010,chamberi,440603,4477062,4044207963042670,-37003900716027696,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingenieros de Telecomunicación,9,28008,moncloa-aravaca,438347,4478292,4045299571351180,-37271090498334704,University
+"Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingenieros en Topografía, Geodesia y Cartografía",13,28038,puente de vallecas,446954,4470889,40385027135121800,-36262590221140496,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingenieros Industriales,5,28002,chamartin,441469,4476872,4044043851541710,-36901501583800496,University
+Universidad Politécnica de Madrid. Escuela Técnica Superior de Ingenieros Navales,9,28008,moncloa-aravaca,438559,4476714,4043880526313060,-37244447026654000,University
+Universidad Politécnica de Madrid. Facultad de Ciencias de la Actividad Física y del Deporte (INEF),9,28008,moncloa-aravaca,437870,4476654,4043821356803680,-37325621396065904,University
+Universidad Pontificia Comillas. Escuela Técnica Superior de Ingeniería,1,28013,centro,439547,4475743,40430121484779400,-37127036955459504,University
+Universidad Pontificia Comillas. Facultad de Ciencias Humanas y Sociales,8,28029,fuencarral-el pardo,442188,4489264,40552125920224704,-3682802161256000,University
+Universidad Pontificia Comillas. Facultad de Derecho Canónico,1,28013,centro,439748,4475714,40429883831913600,-37103315481798400,University
+Universidad Pontificia Comillas. Facultad de Teología,8,28029,fuencarral-el pardo,442188,4489264,40552125920224704,-3682802161256000,University
+Universidad Pontificia de Comillas. Facultad de Ciencias Económicas y Empresariales,1,28013,centro,439669,4475725,4042996811780780,-3711275575912570,University
+Universidad Pontificia de Comillas. Facultad de Derecho,1,28013,centro,439669,4475725,4042996811780780,-3711275575912570,University
+Universidad Pontificia de Salamanca. Facultad de Enfermería y Fisioterapia,7,28010,chamberi,439303,4475960,404320681305,-37155984461035696,University
